@@ -1,0 +1,22 @@
+[project]
+name = "assessment"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "aiosqlite>=0.22.0",
+    "cryptography>=46.0.3",
+    "llama-index-core>=0.14.10",
+    "llama-index-embeddings-huggingface>=0.6.1",
+    "llama-index-llms-anthropic>=0.10.3",
+    "llama-index-llms-ollama>=0.9.1",
+    "pypdf>=6.4.2",
+    "python-dotenv>=1.2.1",
+    "ratelimit>=2.2.1",
+    "rich>=14.2.0",
+    "ruff>=0.14.10",
+]
+
+[tool.ruff]
+line-length = 150
