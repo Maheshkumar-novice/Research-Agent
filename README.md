@@ -1,6 +1,6 @@
 # Demo
 
-Demo: https://github.com/Maheshkumar-novice/Research-Agent/blob/main/demo.webm
+Demo: https://github.com/Maheshkumar-novice/Research-Agent/blob/main/demo.mp4
 
 # Setup
 
